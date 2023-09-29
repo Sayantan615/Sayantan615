@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋
+- 🌱 I'm currently learning web development.
+- 👯 I'm looking to colloborate on any project where I can learn something new.
 
 <!--
 **Sayantan615/Sayantan615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
